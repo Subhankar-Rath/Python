@@ -1,2 +1,2 @@
-print(marks[:2])
-# print(marks[1:len(marks)])
+set.clear()
+# print(set)
